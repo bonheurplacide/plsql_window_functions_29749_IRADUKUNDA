@@ -98,4 +98,6 @@ region_name | VARCHAR(50)| NOT NULL
                 │ product_id FK│────────────────────────────────┘
                 └──────────────┘
 
+<img width="1366" height="736" alt="image" src="https://github.com/user-attachments/assets/ea9f3ff4-8bbd-41b2-b059-8d5aab1d4601" />
+
 
